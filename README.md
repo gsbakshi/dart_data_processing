@@ -3,7 +3,7 @@
 Build a command line tool that can process a .csv file to generate a report as per our requirements.
 
 * Using synchronous task with dart 
-* For asychronous implementation, check out the refer to the [weather app](https://github.com/gsbakshi/weather_app)
+* For asychronous implementation, refer to the [weather app](https://github.com/gsbakshi/weather_app)
 
 ### Usage
 
